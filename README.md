@@ -4,6 +4,8 @@
 
 НАСТРОЙКА:
 
+<blockquote>Внимание! Функция ENC должна быть выключена. Если функция включена, качество записи будет очень плохим. Отключить функцию ENC можно либо в настройка звука, на вкладке Effects, либо нажатием кнопки ENC на пульте Edifire G7.</blockquote>
+
 Для начала необходимо установить <a href="https://sourceforge.net/projects/equalizerapo/files/1.3/EqualizerAPO64-1.3.exe/download">Equalizer APO</a>.
 
 * Уровень громкости микрофона в системе: 90<br>
